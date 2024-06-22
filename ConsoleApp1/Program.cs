@@ -26,7 +26,7 @@ namespace PP21
                 case "+":
                     Console.WriteLine($"Результат сложения: {B + A}");
 
-                    Console.WriteLine($"Результат сложения: {A + B + C + C}");
+                    Console.WriteLine($"Результат сложения: {A + A + C + C}");
 
                     break;
                 case "-":
