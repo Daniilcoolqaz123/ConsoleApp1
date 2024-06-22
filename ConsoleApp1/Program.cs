@@ -33,7 +33,7 @@ namespace PP21
                     Console.WriteLine($"Результат вычитания: {A - B}");
                     break;
                 case "x":
-                    Console.WriteLine($"Результат умножения: {B * A}");
+                    Console.WriteLine($"Результат умножения: {A * B}");
                     break;
                 case "/":
                     if (B != 0)
